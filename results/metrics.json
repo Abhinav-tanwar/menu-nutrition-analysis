@@ -1,0 +1,8 @@
+{
+  "rows": 260,
+  "numeric_features": 21,
+  "second_third_positive": ["Total Fat", "Saturated Fat (% Daily Value)"],
+  "negative_correlations": "Vitamin C (% Daily Value)",
+  "masked_values": 231,
+  "scope": "descriptive sensitivity analysis; high nutrient values can be valid and are not asserted to be errors"
+}
