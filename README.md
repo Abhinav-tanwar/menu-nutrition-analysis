@@ -1,2 +1,3 @@
 # menu-nutrition-analysis
-Menu nutrition exploration in R with correlation grouping and documented outlier-treatment sensitivity.
+
+Reproducible analysis; see data/README.md for input provenance.
